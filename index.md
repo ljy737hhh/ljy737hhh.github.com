@@ -12,10 +12,10 @@
       <p><b>电子邮箱：1150210727@qq.com</b></p>
      </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % ![罗金宇](https://github.com/ljy737hhh/ljy737hhh.github.com/blob/main/zhengjianzhao.jpg)![证件照](/zhengjianzhao.jpg)
-    </td>
-  </tr>
-</table>
+      <img src="/zhengjianzhao.jpg" width="100%">                                        % ![证件照](/zhengjianzhao.jpg)
+     </td>
+    </tr>
+   </table>
                                                                   
 ### 自我评价
 #### 性格优点：心思细腻，积极乐观;有责任感，诚实守信;有一定的洞察能力，能体贴对方心理;善于与人沟通，有团队合作精神;做事有条理，遇事比较镇静从容;虚心好学，善于吸收别人的优点;积极主动，心态乐观。
