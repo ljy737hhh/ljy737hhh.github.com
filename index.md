@@ -1,6 +1,6 @@
-### 个人信息
-#### 姓名：罗金宇
-#### 性别：男
+### 个人信息                                                                          ![图片描述](https://github.com/ljy737hhh/ljy737hhh.github.com/blob/main/zhengjianzhao.jpg)
+#### 姓名：罗金宇                                                                     ![证件照](/zhengjianzhao.jpg)
+#### 性别：男 
 #### 籍贯：浙江省绍兴市
 #### 政治面貌：共青团员
 #### 学历：本科
