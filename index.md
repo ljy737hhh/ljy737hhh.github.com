@@ -12,7 +12,7 @@
       <p><b>电子邮箱：1150210727@qq.com</b></p>
      </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % ![证件照](/zhengjianzhao.jpg)
+      <img src="/zhengjianzhao.jpg" width="100%">      % ![罗金宇](图片链接)![证件照](/ljy.jpg)
     </td>
   </tr>
 </table>
@@ -27,10 +27,10 @@
 
 ### 研究方向
 #### 文本挖掘
-
+暂无
 
 #### 知识图谱
-
+暂无
 
 
 ### 荣誉奖励
@@ -48,5 +48,5 @@
 
 
 ### 项目研究
-
+暂无
 
