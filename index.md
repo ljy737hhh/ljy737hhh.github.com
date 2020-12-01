@@ -12,7 +12,7 @@
       <p><b>电子邮箱：1150210727@qq.com</b></p>
      </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % ![罗金宇](图片链接)![证件照](/ljy.jpg)
+      <img src="/zhengjianzhao.jpg" width="100%">      % ![罗金宇]()![证件照](/zhengjianzhao.jpg)
     </td>
   </tr>
 </table>
